@@ -120,3 +120,5 @@ group :site do
   gem "jekyll-sitemap"
   gem "jemoji"
 end
+
+gem "minimal-mistakes-jekyll"
